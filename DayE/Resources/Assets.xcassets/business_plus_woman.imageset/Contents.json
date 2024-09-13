@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "business_plus_woman.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

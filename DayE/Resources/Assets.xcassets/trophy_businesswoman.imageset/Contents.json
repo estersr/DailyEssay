@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "trophy_businesswoman.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

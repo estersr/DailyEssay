@@ -1,0 +1,259 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "%@" : {
+
+    },
+    "%lld" : {
+
+    },
+    "By making it a daily ritual, you'll enhance memory, agility, reasoning, and expand your vocabulary—all in one go!" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "CHALLENGE OF THE DAY" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DESAFIO DO DIA"
+          }
+        }
+      }
+    },
+    "CHARACTERS USED %lld" : {
+
+    },
+    "CHARACTERS USED %lld/%lld" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHARACTERS USED %1$lld/%2$lld"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CARACTERES USADOS %1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "CHECK DEFINITIONS" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VERIFIQUE AS DEFINIÇÕES"
+          }
+        }
+      }
+    },
+    "Confirm" : {
+
+    },
+    "Confirm essay" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmar Redação"
+          }
+        }
+      }
+    },
+    "Confirm Essay?" : {
+
+    },
+    "Congratulations" : {
+
+    },
+    "Definitions" : {
+
+    },
+    "Discard" : {
+
+    },
+    "Display Calendar" : {
+
+    },
+    "Display Introduction" : {
+
+    },
+    "Each day, our app meticulously selects a thought-provoking essay topic, tailored to inspire and challenge you." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos os dias, nosso aplicativo seleciona meticulosamente um tópico de ensaio instigante, feito sob medida para inspirar e desafiar você."
+          }
+        }
+      }
+    },
+    "Enhance your memory, agility, reasoning, learning, and boost your vocabulary." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Melhore sua memória, agilidade, raciocínio, aprendizado e aumente seu vocabulário."
+          }
+        }
+      }
+    },
+    "Every day, our app challenges you to write an essay on thought-provoking topics." : {
+
+    },
+    "Explore new topics to refine your writing skills and witness your proficiency flourish!" : {
+
+    },
+    "Get a new challenge everyday" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receba um novo desafio todos os dias"
+          }
+        }
+      }
+    },
+    "Get Started" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Começar"
+          }
+        }
+      }
+    },
+    "Healthcare Technology" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tecnologia de saúde"
+          }
+        }
+      }
+    },
+    "Healthcare technology encompasses the use of innovative tools and systems to improve the delivery, efficiency, and effectiveness of healthcare services. This includes electronic health records (EHR), medical devices, telemedicine platforms, and health apps, all aimed at enhancing patient care, streamlining workflows, and advancing medical research and diagnosis." : {
+
+    },
+    "Improve your writing skills" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Melhore suas habilidades de escrita"
+          }
+        }
+      }
+    },
+    "Let the app guide you in honing your writing skills across diverse themes. Make it a daily ritual to explore new topics and watch your writing flourish!" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deixe o aplicativo guiá-lo no aprimoramento de suas habilidades de escrita em diversos temas. Faça disso um ritual diário para explorar novos tópicos e ver sua escrita florescer!"
+          }
+        }
+      }
+    },
+    "Next" : {
+
+    },
+    "Optimize your cognitive abilities" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otimize suas habilidades cognitivas"
+          }
+        }
+      }
+    },
+    "Remote Care" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atendimento remoto"
+          }
+        }
+      }
+    },
+    "The Future of Healthcare: Telemedicine and Remote Patient Monitoring" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Futuro da Saúde: Telemedicina e Monitoramento Remoto de Pacientes"
+          }
+        }
+      }
+    },
+    "This action cannot be undone." : {
+
+    },
+    "Use the keywords" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilize as palavras-chave"
+          }
+        }
+      }
+    },
+    "Virtual Health" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saúde virtual"
+          }
+        }
+      }
+    },
+    "Write a short essay about the topic:" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escreva uma pequena redação sobre o tema:"
+          }
+        }
+      }
+    },
+    "Write your essay here..." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escreva sua redação aqui..."
+          }
+        }
+      }
+    },
+    "You have unsaved changes left" : {
+
+    },
+    "You've completed the challenge of the day!\nCheck the calendar to catch up on any missed days, or come back tomorrow for a brand new challenge." : {
+
+    },
+    "You've completed the challenge%@!" : {
+
+    }
+  },
+  "version" : "1.0"
+}
